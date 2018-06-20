@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Esercitazione
 {
-    class Program
+    class Class2
     {
-        static void Main(string[] args)
-        {
-
-        }
+        public int Id { get; set; }
+        public string Nome { get; set; }
     }
 }
